@@ -1,2 +1,2 @@
 # caoly09.github.io
-blog
+blog_page
